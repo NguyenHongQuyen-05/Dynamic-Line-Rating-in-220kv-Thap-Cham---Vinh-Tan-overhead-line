@@ -1,0 +1,28 @@
+# DLR Vietnam – Dependencies
+# Cài đặt: pip install -r requirements.txt
+
+# Core geospatial & data
+geopandas>=0.14.0
+shapely>=2.0.0
+pyproj>=3.5.0
+fiona>=1.9.0
+
+# Numerical & data
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# HTTP
+requests>=2.31.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Excel
+openpyxl>=3.1.0
+
+# HDF5 (lưu kết quả)
+tables>=3.8.0
+
+# Visualisation (tuỳ chọn)
+matplotlib>=3.7.0
