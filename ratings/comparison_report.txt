@@ -1,0 +1,175 @@
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║ CHỮ KỲ 1: SO SÁNH HỆ SỐ CỐ ĐỊNH vs ĐỘNG
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+KỊCH BẢN A (HỆ SỐ CỐ ĐỊNH):
+  Hệ số: 0.230000
+  DLR trung bình: 890.97 A
+  DLR min: 654.76 A
+  DLR max: 1321.28 A
+  Ampacity gain: 4.820% (so với 850A)
+
+KỊCH BẢN B (HỆ SỐ ĐỘNG):
+  DLR trung bình: 957.94 A
+  DLR min: 690.29 A
+  DLR max: 1358.87 A
+  Ampacity gain: 12.699% (so với 850A)
+
+SO SÁNH:
+  Độ khác biệt trung bình (Động - Cố định): 66.970 A (7.815%)
+  Độ khác biệt tối đa: 129.729 A (15.772%)
+    → Lúc: 2015-12-24 06:00:00+07:00
+  Độ khác biệt tối thiểu: 0.000 A
+  Tỷ lệ thời gian Động > Cố định: 100.0%
+
+THỐNG KÊ YEARLY (theo năm):
+
+  Năm 2014:
+    Cố định: avg DLR=889.5A, gain=4.649%
+    Động:   avg DLR=934.9A, gain=9.993%
+
+  Năm 2015:
+    Cố định: avg DLR=891.8A, gain=4.915%
+    Động:   avg DLR=980.3A, gain=15.324%
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║ CHỮ KỲ 2: SO SÁNH HỆ SỐ CỐ ĐỊNH vs ĐỘNG
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+KỊCH BẢN A (HỆ SỐ CỐ ĐỊNH):
+  Hệ số: 0.664783
+  DLR trung bình: 989.50 A
+  DLR min: 713.49 A
+  DLR max: 1413.85 A
+  Ampacity gain: 16.412% (so với 850A)
+
+KỊCH BẢN B (HỆ SỐ ĐỘNG):
+  DLR trung bình: 1002.50 A
+  DLR min: 720.33 A
+  DLR max: 1421.85 A
+  Ampacity gain: 17.941% (so với 850A)
+
+SO SÁNH:
+  Độ khác biệt trung bình (Động - Cố định): 12.997 A (1.341%)
+  Độ khác biệt tối đa: 27.667 A (2.955%)
+    → Lúc: 2017-12-27 00:00:00+07:00
+  Độ khác biệt tối thiểu: 0.000 A
+  Tỷ lệ thời gian Động > Cố định: 100.0%
+
+THỐNG KÊ YEARLY (theo năm):
+
+  Năm 2016:
+    Cố định: avg DLR=985.1A, gain=15.899%
+    Động:   avg DLR=992.8A, gain=16.800%
+
+  Năm 2017:
+    Cố định: avg DLR=993.5A, gain=16.877%
+    Động:   avg DLR=1011.8A, gain=19.033%
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║ CHỮ KỲ 3: SO SÁNH HỆ SỐ CỐ ĐỊNH vs ĐỘNG
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+KỊCH BẢN A (HỆ SỐ CỐ ĐỊNH):
+  Hệ số: 0.766398
+  DLR trung bình: 1033.68 A
+  DLR min: 690.52 A
+  DLR max: 1413.05 A
+  Ampacity gain: 21.610% (so với 850A)
+
+KỊCH BẢN B (HỆ SỐ ĐỘNG):
+  DLR trung bình: 1038.91 A
+  DLR min: 694.52 A
+  DLR max: 1417.40 A
+  Ampacity gain: 22.225% (so với 850A)
+
+SO SÁNH:
+  Độ khác biệt trung bình (Động - Cố định): 5.228 A (0.518%)
+  Độ khác biệt tối đa: 12.161 A (1.247%)
+    → Lúc: 2019-12-25 22:00:00+07:00
+  Độ khác biệt tối thiểu: 0.000 A
+  Tỷ lệ thời gian Động > Cố định: 100.0%
+
+THỐNG KÊ YEARLY (theo năm):
+
+  Năm 2018:
+    Cố định: avg DLR=1038.4A, gain=22.163%
+    Động:   avg DLR=1041.3A, gain=22.507%
+
+  Năm 2019:
+    Cố định: avg DLR=1028.6A, gain=21.010%
+    Động:   avg DLR=1036.1A, gain=21.896%
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║ CHỮ KỲ 4: SO SÁNH HỆ SỐ CỐ ĐỊNH vs ĐỘNG
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+KỊCH BẢN A (HỆ SỐ CỐ ĐỊNH):
+  Hệ số: 0.811717
+  DLR trung bình: 1033.62 A
+  DLR min: 723.04 A
+  DLR max: 1415.37 A
+  Ampacity gain: 21.602% (so với 850A)
+
+KỊCH BẢN B (HỆ SỐ ĐỘNG):
+  DLR trung bình: 1036.55 A
+  DLR min: 725.41 A
+  DLR max: 1417.01 A
+  Ampacity gain: 21.947% (so với 850A)
+
+SO SÁNH:
+  Độ khác biệt trung bình (Động - Cố định): 2.927 A (0.289%)
+  Độ khác biệt tối đa: 6.795 A (0.692%)
+    → Lúc: 2021-12-29 06:00:00+07:00
+  Độ khác biệt tối thiểu: 0.000 A
+  Tỷ lệ thời gian Động > Cố định: 100.0%
+
+THỐNG KÊ YEARLY (theo năm):
+
+  Năm 2020:
+    Cố định: avg DLR=1030.5A, gain=21.237%
+    Động:   avg DLR=1032.1A, gain=21.427%
+
+  Năm 2021:
+    Cố định: avg DLR=1036.3A, gain=21.916%
+    Động:   avg DLR=1040.5A, gain=22.415%
+
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║ CHỮ KỲ 5: SO SÁNH HỆ SỐ CỐ ĐỊNH vs ĐỘNG
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+KỊCH BẢN A (HỆ SỐ CỐ ĐỊNH):
+  Hệ số: 0.837375
+  DLR trung bình: 1031.86 A
+  DLR min: 728.47 A
+  DLR max: 1415.83 A
+  Ampacity gain: 21.395% (so với 850A)
+
+KỊCH BẢN B (HỆ SỐ ĐỘNG):
+  DLR trung bình: 1033.70 A
+  DLR min: 730.09 A
+  DLR max: 1417.28 A
+  Ampacity gain: 21.612% (so với 850A)
+
+SO SÁNH:
+  Độ khác biệt trung bình (Động - Cố định): 1.839 A (0.182%)
+  Độ khác biệt tối đa: 4.362 A (0.447%)
+    → Lúc: 2024-01-01 20:00:00+07:00
+  Độ khác biệt tối thiểu: 0.000 A
+  Tỷ lệ thời gian Động > Cố định: 100.0%
+
+THỐNG KÊ YEARLY (theo năm):
+
+  Năm 2022:
+    Cố định: avg DLR=1030.8A, gain=21.269%
+    Động:   avg DLR=1031.8A, gain=21.386%
+
+  Năm 2023:
+    Cố định: avg DLR=1032.7A, gain=21.490%
+    Động:   avg DLR=1035.3A, gain=21.805%
+
